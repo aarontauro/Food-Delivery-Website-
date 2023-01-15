@@ -27,7 +27,7 @@ a {
 #home::before {
     content: "";
     position: absolute;
-    background: url(/img.jpg) no-repeat center center/cover;
+    background: url(./img.jpg) no-repeat center center/cover;
     height: 650px;
     top: 0px;
     left: 0px;
@@ -95,7 +95,7 @@ a {
 /* Client Section */
 #client {
     text-align: center;
-    background: url(/client.jpg) no-repeat;
+    background: url(./client.jpg) no-repeat;
     background-size: cover;
     background-position: center center;
 }
@@ -115,7 +115,7 @@ a {
 /* Contact Section */
 #contact {
     text-align: center;
-    background: url(/contact.jpg) transparent no-repeat;
+    background: url(./contact.jpg) transparent no-repeat;
     background-size: cover;
     background-position: center center;
     width: 100%;
